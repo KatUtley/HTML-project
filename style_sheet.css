@@ -13,7 +13,7 @@ h1{
 a:link {
     color: black;
     background-color: white;
-    border: 2px    solid green;
+    border: 2px    solid darkgreen;
     padding: 10px 20px;
     text-decoration: None;
     text-align: center;
@@ -24,7 +24,7 @@ a:link {
 a:visited {
     color: black;
     background-color: white;
-    border: 2px solid lightgreen;
+    border: 2px solid darkgreen;
     padding: 10px 20px;
     text-decoration: None;
     text-align: center;
