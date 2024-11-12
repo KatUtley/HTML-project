@@ -3,17 +3,17 @@ text-align: center;
 color: black
 }
 body {
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fabstract-background-images-wallpaper-ai-generated_58756526.htm&psig=AOvVaw32gNhNQ9puewxttcbQJ2xL&ust=1731539309433000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjrh-H014kDFQAAAAAdAAAAABAJ")
+    background-image: url("https://blusignalsystems.com/wp-content/uploads/2016/12/Savin-NY-Website-Background-Web1.jpg")
 }
-h1.outset {border-style: outset;}
 h1{
+    h1.outset{border-style: outset;}
     border-style: solid;
-    border-color: None None lightgreen None;
+    border-color: None None green None;
 }
 a:link {
     color: black;
     background-color: white;
-    border: 2px solid lightgreen;
+    border: 2px    solid green;
     padding: 10px 20px;
     text-decoration: None;
     text-align: center;
@@ -24,7 +24,7 @@ a:link {
 a:visited {
     color: black;
     background-color: white;
-    border: 2px solid green;
+    border: 2px solid lightgreen;
     padding: 10px 20px;
     text-decoration: None;
     text-align: center;
