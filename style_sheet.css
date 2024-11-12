@@ -1,0 +1,44 @@
+p {
+text-align: center;
+color: black
+}
+body {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fabstract-background-images-wallpaper-ai-generated_58756526.htm&psig=AOvVaw32gNhNQ9puewxttcbQJ2xL&ust=1731539309433000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjrh-H014kDFQAAAAAdAAAAABAJ")
+}
+h1.outset {border-style: outset;}
+h1{
+    border-style: solid;
+    border-color: None None lightgreen None;
+}
+a:link {
+    color: black;
+    background-color: white;
+    border: 2px solid lightgreen;
+    padding: 10px 20px;
+    text-decoration: None;
+    text-align: center;
+    display: inline-block;
+}
+  
+  /* visited link */
+a:visited {
+    color: black;
+    background-color: white;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-decoration: None;
+    text-align: center;
+    display: inline-block;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: black;
+    background-color: white;
+    border: 2px solid darkgreen;
+    padding: 10px 20px;
+    text-decoration: None;
+    text-align: center;
+    display: inline-block;
+}
+  
